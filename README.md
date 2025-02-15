@@ -85,6 +85,7 @@ Implement saliency maps and attention mechanisms to visualize how different time
 
 Use **SHAP** (Shapley Additive Explanations) to calculate the contribution of each feature to the final prediction. This adds another layer of model interpretability.
 
+
 ## Conclusion
 
-Leverage an LSTM model to predict stock prices by incorporating both historical data and news sentiment. Combine these features to build a more robust and accurate predictive model. Use explainability techniques like LIME, SHAP, and attention maps to provide transparency into the model's decision-making process, making it easier for stakeholders to understand and trust its predictions.
+<TO DO>
