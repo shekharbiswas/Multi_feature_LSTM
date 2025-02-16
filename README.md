@@ -1,4 +1,4 @@
-# Stock Prediction using LSTM with News & Market Data
+# Market_Pulse_Forecast
 
 ## Overview
 
